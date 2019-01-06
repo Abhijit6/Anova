@@ -1,3 +1,3 @@
 Anova
-Analysis of Variance on Plant Growth based on Single Factor treatment
-: One Way Anova & Two Way Anova
+Analysis of Variance
+![All_text](Scatter_plot.png?raw=true"Anova"
